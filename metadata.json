@@ -1,0 +1,5 @@
+{
+  "name": "AI Comic Strip Generator",
+  "description": "Create a simple, funny, 3-panel comic strip. Upload up to 3 character images, write a short story, and let AI bring your comic to life.",
+  "requestFramePermissions": []
+}
